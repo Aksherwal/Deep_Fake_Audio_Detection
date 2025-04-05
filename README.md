@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates a lightweight, real-time deepfake audio detection system combining **Retrieval-Augmented Detection (RADD)**, **Generative Adversarial Networks (GANs)**, and **Variational Autoencoders (VAEs)**. It processes audio live from a microphone, identifies potential deepfakes, and adapts to new threats through continuous learning. Built for quick testing, it uses 100 real and 100 fake audio samples from the ASVspoof2019 LA dataset and runs a 10-second real-time detection demo.
 
-#### Read the [Complete Document]() for more details.
+#### Read the [Complete Document](https://github.com/Aksherwal/Deep_Fake_Audio_Detection/blob/3ed07a0793dca2bf6fb2ad5e7b2007492901f553/Deepfake%20Audio%20Detection%20System_%20A%20Hybrid%20Real-Time%20Solution.pdf) for more details.
 
 ### Key Features
 - **Real-Time Detection**: Analyzes audio in 128-ms chunks for instant deepfake flagging.
